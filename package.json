@@ -24,6 +24,7 @@
     "prettier": "^2.2.1"
   },
   "dependencies": {
-    "standard": "^16.0.3"
+    "standard": "^16.0.3",
+    "tailwindcss": "^2.0.3"
   }
 }
